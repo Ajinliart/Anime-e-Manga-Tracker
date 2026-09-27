@@ -1,6 +1,6 @@
 # Anime & Manga Tracker
 Creato da Ajinliart, come progetto indipendente e per divertimento.
-Sito web in cui un utente si registra, cerca anime e manga nel catalogo, ne vede i dettagli
+Sito web (simile a MAL ma con meno funzionalità) in cui un utente si registra, cerca anime e manga nel catalogo, ne vede i dettagli
 e li aggiunge alla propria lista personale con uno stato (*Voglio guardarlo/leggerlo*, *In corso*,
 *Completato*), un voto da 1 a 10 e il progresso (episodi/capitoli).
 
